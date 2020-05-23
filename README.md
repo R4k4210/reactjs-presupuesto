@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del proyecto
+
+Pequeña aplicación para llevar un presupuesto.
+En este caso se trabaja con mas componentes, para mejorar la práctica de llevar información entre los mismos.
+Se utiliza shortid para la generación de ID's. El proyecto no cuenta con localStorage.
+
 ## Available Scripts
 
 In the project directory, you can run:
